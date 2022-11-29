@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayhan0
-- 👀 I’m interested in ... Data Mining With Pyhton Pandas Library , Data Analysing with SQL currently using Mysql,PostreSql for that and done some websites with Wordpress :)
-- -🌱 I’m currently learning Pyhton Pandas Library and advanced level of analysis with mysql  
-- 💞️ I’m looking to collaborate on ... Data Science,Data Mining 
+- 👀 I’m interested in ... Data Analysis,Visualization With Pyhton (Pandas,Panel,Mathplotlib,Holoviews Library) , Data Analysing with SQL(Mysql,Postresql) currently using Mysql,PostreSql for that and done some websites with Wordpress :)
+- -🌱 I’m currently learning Data Mining ,Machine Learning  and advanced level of analysis (sql,pyhton) 
+- 💞️ I’m looking to collaborate on ... Data Science,Data Mining,Machine Learning
 - 📫 How to reach me ... you can email me on ayhan8320@gmail.com
 
 <!---
